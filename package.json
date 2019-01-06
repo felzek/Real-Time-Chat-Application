@@ -2,5 +2,7 @@
     "name": "real-time-chat",
     "version": "0.0.1",
     "description": "real-time-chat",
-    "dependencies": {}
-  }
+    "dependencies": {
+        "express": "^4.15.2"
+    }
+}
